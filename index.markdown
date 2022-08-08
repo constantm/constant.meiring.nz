@@ -20,7 +20,7 @@ See my list of product opinions [here](https://productmanifesto.tech){:target="\
 
 ## 🏗️ Engineering
 
-All business are tech business, the techlogy stack you choose is very important. When it comes down to it, I choose boring tech. I'm a full stack engineer, preferring to work with Ruby/Rails and VueJS where you absolutely need it in the UI.
+All businesses are tech business, and the technology stack you choose is very important. When it comes down to it, I choose boring tech. I'm a full stack engineer, preferring to work with Ruby/Rails and VueJS where you absolutely need it in the UI.
 
 - Most web applications don't need a SPA and the complexity it brings.
 - My goto is Ruby on Rails hosted on a PaaS - again, avoiding dealing with infrastructure complexity.
