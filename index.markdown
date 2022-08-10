@@ -25,7 +25,7 @@ All businesses are tech business, and the technology stack you choose is very im
 - Most web applications don't need a SPA and the complexity it brings.
 - My goto is Ruby on Rails hosted on a PaaS - again, avoiding dealing with infrastructure complexity.
 - Sprinkles of VueJS where the user experience demands it.
-- bUt rAiLs dOeSnT sCaLe. Yes it does, see Gitlab, AirBnb and Shopify
+- bUt rAiLs dOeSnT sCaLe. Yes it does, see Gitlab, AirBnb and Shopify.
 - That said, at the end of the day, choose the right tool for the job.
 
 Find me on [Github](https://github.com/constantm){:target="\_blank"} and [StackOverflow](https://stackoverflow.com/users/162034/constant-meiring){:target="\_blank"}.
