@@ -40,6 +40,6 @@ You can also find me on [Github](https://github.com/constantm){:target="\_blank"
 
 ## Let's work together
 
-Find me on [LinkedIn](https://www.linkedin.com/in/constantmeiring){:target="\_blank"}, or get in touch at [constantmeiring@gmail.com](mailto:constantmeiring@gmail.com).
+Find me on [LinkedIn](https://www.linkedin.com/in/constantmeiring){:target="\_blank"}, or [Get in touch](mailto:constantmeiring@gmail.com).
 
 You can also download my resume [here](assets/ConstantMeiringResume22Q3.pdf){:target="\_blank"}.
