@@ -5,30 +5,31 @@ title: Constant Meiring
 
 # Hello there!
 
-My name is Constant, and I've spent the past fiteen years shipping successful products to market as a software engineer, product manager and people leader. I operate well in ambigious, fast-paced environments.
+My name is Constant, and I’ve spent the past fifteen years shipping successful products to market as a software engineer, product manager and people leader. I operate well in ambiguous, fast-paced environments.
 
 ## 📦 Product
 
-Shipping a successful product is hard, and the risk of failure is ever present. However, these risks can be managed, increasing your chances of success.
+Shipping successful products are complicated, and the risk of failure is ever-present. Luckily, you can manage these risks, increasing your chances of success.
 
 - Fall in love with your problems, not with your solutions.
 - Validate that there is a market demand by running data-driven experiments.
 - Make sure the economics check out.
-- Agile is a not a thing, but a way of doing things.
+- #Agile is not a thing, but a way of doing things.
 
-See my list of product opinions [here](https://productmanifesto.tech){:target="\_blank"}.
+Want to work together on making your product successful? [Get in touch](mailto:constantmeiring@gmail.com){:target="\_blank"}.
 
 ## 🏗️ Engineering
 
-All businesses are tech business, and the technology stack you choose is very important. When it comes down to it, I choose boring tech. I'm a full stack engineer, preferring to work with Ruby/Rails and VueJS where you absolutely need it in the UI.
+Today all businesses are tech businesses, and choosing the right technology to execute on your strategy is essential. When it comes down to technology decisions, I optimise for fantastic user experiences and speed to market.
 
-- Most web applications don't need a SPA and the complexity it brings.
-- My goto is Ruby on Rails hosted on a PaaS - again, avoiding dealing with infrastructure complexity.
+- My goto for building well-tested, uncomplicated applications is Ruby on Rails, hosted on a PaaS to avoiding dealing with infrastructure complexity.
+- Most web applications don't need a SPA and the crazyness it brings.
 - Sprinkles of VueJS where the user experience demands it.
-- bUt rAiLs dOeSnT sCaLe. Yes it does, see Gitlab, AirBnb and Shopify.
-- That said, at the end of the day, choose the right tool for the job.
+- That said, I'm also comfortable working with a range of other languages and frameworks such as Python, JavaScript, Elixir and Tailwind.
 
-Find me on [Github](https://github.com/constantm){:target="\_blank"} and [StackOverflow](https://stackoverflow.com/users/162034/constant-meiring){:target="\_blank"}.
+Want to build something together? Get in touch at hello@constant.co.za
+
+You can also find me on [Github](https://github.com/constantm){:target="\_blank"} and [StackOverflow](https://stackoverflow.com/users/162034/constant-meiring){:target="\_blank"}.
 
 ## Stuff I've worked on
 
