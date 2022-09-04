@@ -48,7 +48,7 @@ echo.> stablediffusion.py
 start .
 ```
 
-The last line above should have opened up an Explorer window. Open up `stablediffusion.py` in your favorite editor (i recommend [Visual Studio](https://code.visualstudio.com) Code](https://code.visualstudio.com)), and paste in the following Python code:
+The last line above should have opened up an Explorer window. Open up `stablediffusion.py` in your favorite editor (I recommend [Visual Studio Code](https://code.visualstudio.com)), and paste in the following Python code:
 
 ```python
 import torch
