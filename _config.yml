@@ -34,6 +34,13 @@ plugins:
 postcss:
   cache: false
 
+netlify:
+  headers:
+    - paths:
+        - /assets/*
+      headers:
+        - "Cache-Control : public, max-age=15552000"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
