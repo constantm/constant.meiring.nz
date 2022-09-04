@@ -23,9 +23,7 @@ Today all businesses are tech businesses, and choosing the right technology to e
 - Sprinkles of VueJS where the user experience demands it.
 - That said, I'm also comfortable working with a range of other languages and frameworks such as Python, JavaScript, Elixir and Tailwind.
 
-Want to build something together? Get in touch at hello@constant.co.za
-
-You can also find me on [Github](https://github.com/constantm){:target="\_blank"} and [StackOverflow](https://stackoverflow.com/users/162034/constant-meiring){:target="\_blank"}.
+Find me on [Github](https://github.com/constantm){:target="\_blank"} and [StackOverflow](https://stackoverflow.com/users/162034/constant-meiring){:target="\_blank"}.
 
 ## 👨🏻‍💻 Stuff I've worked on
 
