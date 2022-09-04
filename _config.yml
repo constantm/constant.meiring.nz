@@ -37,6 +37,10 @@ postcss:
 netlify:
   headers:
     - paths:
+        - /*
+      headers:
+        - "Cache-Control : public, max-age=3600"
+    - paths:
         - /assets/*
       headers:
         - "Cache-Control : public, max-age=15552000"
