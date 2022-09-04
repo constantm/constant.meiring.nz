@@ -17,7 +17,7 @@ At its current trajectory, it's on a crash course with the world of stock imager
 
 I don't use my Windows PC for development, so I had to get a Python environment up and running first. [Anaconda](http://anaconda.com) seemed like a good option to quickly get off the ground, so I used that.
 
-My first stop was the [Stable Diffusion Github repo](https://github.com/CompVis/stable-diffusion), which details several ways to get Stable Diffusion running - I went with the [Diffusers [library](https://github.com/huggingface/diffusers) for its ease of use.
+My first stop was the [Stable Diffusion Github repo](https://github.com/CompVis/stable-diffusion), which details several ways to get Stable Diffusion running - I went with the [Diffusers library](https://github.com/huggingface/diffusers) for its ease of use.
 
 The models we'll be using are hosted on Huggingface. You'll need to agree to some terms before you're allowed to use it, and also get an API key that the [Diffusers library](https://github.com/huggingface/diffusers) will use to retrieve the models.
 
