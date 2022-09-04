@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Running Stable Diffusion on your GPU with less than 10Gb of VRAM"
+title: "Running Stable Diffusion on your GPU with less than 10Gb of VRAM on Windows"
 date: 2022-08-04
 categories: playing
 ---
