@@ -38,7 +38,7 @@ cd stablediffusion
 Next, we'll install some libraries:
 
 ```
-pip install diffusers torch
+pip install diffusers torch transformers
 ```
 
 Now we'll create an empty file for our Python code, and open the folder in Explorer:
