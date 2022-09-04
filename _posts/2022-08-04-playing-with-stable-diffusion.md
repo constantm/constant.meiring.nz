@@ -58,7 +58,7 @@ from diffusers import StableDiffusionPipeline
 from torch.cuda.amp import autocast
 
 # Could probably use an inline lambda for this
-def dummy(images, \*\*kwargs):
+def dummy(images, **kwargs):
     return images, False
 
 # Read prompt from command line
