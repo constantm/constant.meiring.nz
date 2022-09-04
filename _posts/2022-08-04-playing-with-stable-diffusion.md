@@ -22,7 +22,7 @@ My first stop was the [Stable Diffusion Github repo](https://github.com/CompVis/
 The models we'll be using are hosted on Huggingface. You'll need to agree to some terms before you're allowed to use it, and also get an API key that the [Diffusers](https://github.com/huggingface/diffusers) library will use to retrieve the models.
 
 1. [Sign up to Huggingface](https://huggingface.co/join)
-2. [Accept the Stable Diffusion models agreement](http://huggingface.co/CompVis/stable-diffusion-v…)
+2. [Accept the Stable Diffusion models agreement](https://huggingface.co/CompVis/stable-diffusion-v1-4)
 3. [Create an Access Token](https://huggingface.co/settings/tokens). You'll use it in the Python script below.
 
 Now that we have an access token, we can run a Python script to generate some images!
