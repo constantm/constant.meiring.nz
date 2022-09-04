@@ -27,14 +27,14 @@ Want to build something together? Get in touch at hello@constant.co.za
 
 You can also find me on [Github](https://github.com/constantm){:target="\_blank"} and [StackOverflow](https://stackoverflow.com/users/162034/constant-meiring){:target="\_blank"}.
 
-## Stuff I've worked on
+## 👨🏻‍💻 Stuff I've worked on
 
 - [Marmalade](https://withmarmalade.com.au){:target="\_blank"}
 - [Chemcloud](https://www.chemcloud.com.au){:target="\_blank"}
 - [Laybuy](https://www.laybuy.com/){:target="\_blank"}
 - [KnowBe4](https://www.knowbe4.com){:target="\_blank"}
 
-## Things I've written
+## 💡 Things I've written
 <ul>
 {% for post in site.posts %}
     <li>
@@ -43,9 +43,29 @@ You can also find me on [Github](https://github.com/constantm){:target="\_blank"
 {% endfor %}
 </ul>
 
-## Let's work together
+## 🤝 Let's work together
 
 Find me on [LinkedIn](https://www.linkedin.com/in/constantmeiring){:target="\_blank"}, or [Get in touch](mailto:constantmeiring@gmail.com).
 
 You can also download my resume [here](assets/ConstantMeiringResume22Q3.pdf){:target="\_blank"}.
 
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Your Role: <select name="role[]" multiple>
+      <option value="leader">Leader</option>
+      <option value="follower">Follower</option>
+    </select></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
