@@ -110,3 +110,5 @@ Below are some of the images I've generated along with their prompts:
     {% endfor %}    
   </div>
 {% endfor %}
+
+Thanks to <a href="https://twitter.com/HypnInfoSec">HypnHacks</a> for pointing out some issues.
