@@ -35,10 +35,16 @@ mkdir stablediffusion
 cd stablediffusion
 ```
 
-Next, we'll install some libraries:
+Next, we'll install some machine learning libraries:
 
 ```
-pip install diffusers transformers torch==1.11.0+cu113
+pip install diffusers transformers
+```
+
+Followed by Cuda enabled Torch:
+
+```
+pip install torch==1.12.1+cu116 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
 Now we'll create an empty file for our Python code, and open the folder in Explorer:
