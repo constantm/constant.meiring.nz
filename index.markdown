@@ -3,9 +3,6 @@ layout: default
 title: Constant Meiring
 ---
 
-# Hello there!
-
-My name is Constant, and I’ve spent the past fifteen years shipping successful products to market as a software engineer, product manager and people leader. I operate well in ambiguous, fast-paced environments.
 
 ## 📦 Product
 
@@ -38,8 +35,18 @@ You can also find me on [Github](https://github.com/constantm){:target="\_blank"
 - [Laybuy](https://www.laybuy.com/){:target="\_blank"}
 - [KnowBe4](https://www.knowbe4.com){:target="\_blank"}
 
+## Things I've written
+<ul>
+{% for post in site.posts %}
+    <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+
 ## Let's work together
 
 Find me on [LinkedIn](https://www.linkedin.com/in/constantmeiring){:target="\_blank"}, or [Get in touch](mailto:constantmeiring@gmail.com).
 
 You can also download my resume [here](assets/ConstantMeiringResume22Q3.pdf){:target="\_blank"}.
+
