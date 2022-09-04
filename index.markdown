@@ -12,8 +12,6 @@ Shipping successful products are complicated, and the risk of failure is ever-pr
 - Make sure the economics check out.
 - #Agile is not a thing, but a way of doing things.
 
-Want to work together on making your product successful? [Get in touch](mailto:constantmeiring@gmail.com){:target="\_blank"}.
-
 ## 🏗️ Engineering
 
 Today all businesses are tech businesses, and choosing the right technology to execute on your strategy is essential. When it comes down to technology decisions, I optimise for fantastic user experiences and speed to market.
