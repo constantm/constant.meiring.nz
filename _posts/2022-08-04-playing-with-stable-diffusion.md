@@ -80,7 +80,7 @@ while True:
     with autocast():
         n = random.randint(1000, 9999)
         image = pipe(prompt, guidance_scale=7.5)["sample"][0]
-        image.save(f'{prompt}-{n}.png')
+        image.save(f'{prompt}-{n}.jpeg')
 ```
 
 ## Generate some images
